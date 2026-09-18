@@ -2,6 +2,9 @@
 
 > **An empirical benchmark and 2-stage verification filter proving why vector semantic caches fail on subtle negations, inverted entities, and numerical shifts—and how to fix them in <0.5ms.**
 
+> 📖 **For the full deep-dive article and mathematical walkthrough, read on Medium:**  
+> 👉 **[Why Your LLM Semantic Cache is a Ticking Time Bomb (And How I Fixed It)](https://medium.com/@psandipan20)**
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/tests-11%2F11%20passing-brightgreen.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -125,7 +128,7 @@ python run_benchmark.py
 
 ## 👤 Author & Connect
 
-* **Author:** Sandipan Paul
+* **Author:** Sandipan
 * **Twitter / X:** [@futurebeast_04](https://x.com/futurebeast_04)
 * **LinkedIn:** [Sandipan Paul](https://www.linkedin.com/in/sandipan-paul-895915265/)
 * **Medium:** [@psandipan20](https://medium.com/@psandipan20)
